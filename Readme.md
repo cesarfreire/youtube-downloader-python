@@ -12,6 +12,6 @@ pip install mhyt PyQt5
 
 ## Usage
 
-Paste the URL video from Youtube, insert a name and select the format. Hit the download button and wait.
+Paste the URL video from Youtube, insert a file name and select the format. Hit the download button and wait.
 
 The file will be saved in the root directory.
