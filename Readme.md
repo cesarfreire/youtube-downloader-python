@@ -4,7 +4,7 @@ Simple program to download Youtube videos in MP3 or MP4 format.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
 pip install mhyt PyQt5
